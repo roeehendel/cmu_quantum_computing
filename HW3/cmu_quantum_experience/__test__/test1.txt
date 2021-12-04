@@ -1,0 +1,5 @@
+3
+
+Hadamard 0
+Not 1
+CSwap 0 1 2

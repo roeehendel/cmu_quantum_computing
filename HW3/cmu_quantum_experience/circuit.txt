@@ -1,0 +1,7 @@
+2
+
+SqrtNot 0
+SqrtNot 0
+Z 0
+
+#Measure
